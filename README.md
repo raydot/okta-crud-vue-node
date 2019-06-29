@@ -1,6 +1,10 @@
 # my-vue-okta-app
 
-> See the README.md
+Following the tutorial by Brandon Praise at [https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node).  I was mostly trying to get my hands on some Epilogue to see if it might help in building a better Node server.
+
+Unfortunately, the tutorial is a little bit out of date and when I tried to fix the library errors with `npm audit` I knocked the whole thing out of whack.
+
+That's ok though.  There really wasn't all that much about Epilogue going on.  Good little intro to using [Okta](http://developer.okta.com) with Vue though!
 
 ## Build Setup
 
